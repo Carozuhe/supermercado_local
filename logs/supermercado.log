@@ -1,0 +1,36 @@
+may 29, 2025 8:16:31 P. M. modelo.Cajera run
+INFO: Cajera 1 comienza a procesar a Ana
+may 29, 2025 8:16:31 P. M. modelo.Cajera run
+INFO: Cajera 3 comienza a procesar a Camila
+may 29, 2025 8:16:31 P. M. modelo.Cajera run
+INFO: Cajera 2 comienza a procesar a Luis
+may 29, 2025 8:16:31 P. M. modelo.Cajera run
+INFO: Cajera 2 procesó Pan en 500ms
+may 29, 2025 8:16:31 P. M. modelo.Cajera run
+INFO: Cajera 3 procesó Pan en 500ms
+may 29, 2025 8:16:31 P. M. modelo.Cajera run
+INFO: Cajera 1 procesó Pan en 500ms
+may 29, 2025 8:16:32 P. M. modelo.Cajera run
+INFO: Cajera 2 procesó Leche en 1000ms
+may 29, 2025 8:16:32 P. M. modelo.Cajera run
+INFO: Cajera 3 procesó Leche en 1000ms
+may 29, 2025 8:16:32 P. M. modelo.Cajera run
+INFO: Cajera 1 procesó Leche en 1000ms
+may 29, 2025 8:16:33 P. M. modelo.Cajera run
+INFO: Cajera 3 procesó Huevos en 800ms
+may 29, 2025 8:16:33 P. M. modelo.Cajera run
+INFO: Cajera 2 procesó Huevos en 800ms
+may 29, 2025 8:16:33 P. M. modelo.Cajera run
+INFO: Cajera 1 procesó Huevos en 800ms
+may 29, 2025 8:16:34 P. M. modelo.Cajera run
+INFO: Cajera 2 procesó Cereal en 1200ms
+may 29, 2025 8:16:34 P. M. modelo.Cajera run
+INFO: Cajera 3 procesó Cereal en 1200ms
+may 29, 2025 8:16:34 P. M. modelo.Cajera run
+INFO: Cajera 2 terminó con Luis en 3606ms - Total: $10.5
+may 29, 2025 8:16:34 P. M. modelo.Cajera run
+INFO: Cajera 3 terminó con Camila en 3606ms - Total: $10.5
+may 29, 2025 8:16:34 P. M. modelo.Cajera run
+INFO: Cajera 1 procesó Cereal en 1200ms
+may 29, 2025 8:16:34 P. M. modelo.Cajera run
+INFO: Cajera 1 terminó con Ana en 3621ms - Total: $10.5
